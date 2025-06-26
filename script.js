@@ -11,10 +11,9 @@ const contentMap = {
     <li>i swear a lot, i'm sorry T__T</li>
     <li>i might yap about my ocs as well, i hope you don't mind</li></ul><br>
 
-    <h2>do not interact if:</h2><br>
-    <ul><li>you're a minor</li>
-    <li>you're uncomfortable with my writings (i put tw on all of them, don't worry)</li>
-    <li>you're dramatic, i'm sorry i have no time for all that</li></ul><br>
+    <h2>do not follow if:</h2><br>
+    <ul><li>you're uncomfortable with my writings (i put tw on all of them, don't worry)</li>
+    </ul><br>
 
     <h2>please give trigger warning (tw) if you post these as my mutual:</h2><br>
     <ul><li>insects (spider, cockroach, etc)</li>
