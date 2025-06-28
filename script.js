@@ -30,7 +30,8 @@ const contentMap = {
     <li>stranger things</li></ul><br>
 
     <h2>casual (fictional)</h2><br>
-    <ul><li>friends</li>
+    <ul><li>kpop demon hunters</li>
+    <li>friends</li>
     <li>hunger games</li>
     <li>divergent</li>
     <li>the maze runner</li>
