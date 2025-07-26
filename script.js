@@ -56,7 +56,6 @@ const contentMap = {
     connect: `<h2>connect with me</h2>
     <p>
       x: <a href="https://twitter.com/chocomict" target="_blank">@chocomict</a><br>
-      tumblr: <a href="https://tumblr.com/chocomict" target="_blank">chocomict</a><br>
     </p>`
   };
   
