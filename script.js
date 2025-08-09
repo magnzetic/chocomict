@@ -20,6 +20,8 @@ const contentMap = {
     <li>nsfw/porn</li></ul>`,
     fandoms: `<h2>fandom list</h2><br>
     <ul><li>wind breaker (webtoon/manhwa)</li>
+    <li>one ok rock</li>
+    <li>glass heart</li>
     <li>jujutsu kaisen</li>
     <li>4 kings (thai)</li>
     <li>food wars</li>
